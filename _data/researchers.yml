@@ -1,0 +1,235 @@
+---
+- name: Maciej Malawski
+  image: "img/researchers/nophoto.png"
+  mail: malawski@agh.edu.pl
+  partner: AGH
+  dblp: https://dblp.org/pid/70/4032
+
+- name: Tomasz Szydło
+  image: "img/researchers/nophoto.png"
+  mail: tomasz.szydlo@agh.edu.pl
+  partner: AGH
+  dblp: https://dblp.org/pid/36/6420
+
+- name: Marek Konieczny
+  image: "img/researchers/nophoto.png"
+  mail: marekko@agh.edu.pl
+  partner: AGH
+  dblp: https://dblp.org/pid/152/7714
+
+- name: Sławomir Zieliński
+  image: "img/researchers/nophoto.png"
+  mail: slawek@agh.edu.pl
+  partner: AGH
+  dblp: https://dblp.org/pid/27/864
+
+- name: Bartosz Baliś
+  image: "img/researchers/nophoto.png"
+  mail: balis@agh.edu.pl
+  partner: AGH
+  dblp: https://dblp.org/pid/26/804
+
+- name: Anna Maria Nestorov
+  image: "img/researchers/nophoto.png"
+  mail: anna.nestorov@bsc.es
+  partner: BSC
+  dblp: https://dblp.org/pid/199/8637
+
+- name: Josep Ll. Berral
+  image: "img/researchers/nophoto.png"
+  mail: josep.berral@bsc.es
+  partner: BSC
+  dblp: https://dblp.org/pid/56/5336
+
+- name: Ferran Agulló
+  image: "img/researchers/nophoto.png"
+  mail: ferran.agullo@bsc.es
+  partner: BSC
+  dblp: https://dblp.org/pid/303/9725
+
+- name: Luís Veiga
+  image: "img/researchers/nophoto.png"
+  mail: luis.veiga@inesc-id.pt
+  partner: INESC
+  dblp: https://dblp.org/pid/v/LuisVeiga
+
+- name: Miguel Coimbra
+  image: "img/researchers/nophoto.png"
+  mail: miguel.e.coimbra@tecnico.ulisboa.pt
+  partner: INESC
+  dblp: https://dblp.org/pid/329/1517
+
+- name: Pezhman Nasirifard
+  image: "img/researchers/nophoto.png"
+  mail: p.nasirifard@tum.de
+  partner: TUM
+  dblp: https://dblp.org/pid/210/5216
+
+- name: Jana Vatter
+  image: "img/researchers/nophoto.png"
+  mail: jana.vatter@tum.de
+  partner: TUM
+  dblp: ---
+
+- name: Alexander Isenko
+  image: "img/researchers/nophoto.png"
+  mail: isenko@in.tum.de
+  partner: TUM
+  dblp: https://dblp.org/pid/314/5970
+
+- name: René Schwermer
+  image: "img/researchers/nophoto.png"
+  mail: rene.schwermer@tum.de
+  partner: TUM
+  dblp: https://dblp.org/pid/322/7387
+
+- name: Herbert Woisetschläger
+  image: "img/researchers/nophoto.png"
+  mail: herbert.woisetschlaeger@tum.de
+  partner: TUM
+  dblp: ---
+
+- name: Jürgen Cito
+  image: "img/researchers/jurgen-cito.png"
+  mail: juergen.cito@tuwien.ac.at
+  partner: TUW
+  dblp: https://dblp.org/pid/150/6416
+
+- name: Nathanael Nussbaumer
+  image: "img/researchers/nophoto.png"
+  mail: nathanael.nussbaumer@tuwien.ac.at
+  partner: TUW
+  dblp: ---
+
+- name: Markus Böck
+  image: "img/researchers/nophoto.png"
+  mail: markus.boeck@tuwien.ac.at
+  partner: TUW
+  dblp: https://dblp.org/pid/323/2981
+
+- name: Aurora González Vidal
+  image: "img/researchers/aurora-gonzalez.jpg"
+  mail: aurora.gonzalez2@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/179/8418
+
+- name: Pablo Fernandez
+  image: "img/researchers/nophoto.png"
+  mail: pablofs@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/f/PabloFernandez
+
+- name: Jose Manuel Bernabe Murcia
+  image: "img/researchers/nophoto.png"
+  mail: josemanuel.bernabe@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/277/8510
+
+- name: Jesus Garcia
+  image: "img/researchers/nophoto.png"
+  mail: jesus.garcia15@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/09/6745-1
+
+- name: Alberto Robles Enciso
+  image: "img/researchers/nophoto.png"
+  mail: alberto.roblese@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/263/5427
+
+- name: Enrique Mármol Campos
+  image: "img/researchers/nophoto.png"
+  mail: enrique.marmol@um.es
+  partner: UMU
+  dblp: https://dblp.org/pid/298/7792
+
+- name: Aitor Arjona
+  image: "img/researchers/nophoto.png"
+  mail: aitor.arjona@urv.cat
+  partner: URV
+  dblp: https://dblp.org/pid/267/5356
+
+- name: Gerard Finol
+  image: "img/researchers/nophoto.png"
+  mail: gerard.finol@urv.cat
+  partner: URV
+  dblp: https://dblp.org/pid/320/8350
+
+- name: Pablo Gimeno Sarroca
+  image: "img/researchers/nophoto.png"
+  mail: pablo.gimeno@urv.cat
+  partner: URV
+  dblp: https://dblp.org/pid/310/1827
+
+- name: German Telmo Eizaguirre
+  image: "img/researchers/nophoto.png"
+  mail: germantelmo.eizaguirre@urv.cat
+  partner: URV
+  dblp: ---
+
+- name: Pedro Garcia Lopez
+  image: "img/researchers/nophoto.png"
+  mail: pedro.garcia@urv.cat
+  partner: URV
+  dblp: https://dblp.org/pid/63/4811
+
+- name: Pavel Chuprikov
+  image: "img/researchers/nophoto.png"
+  mail: pavel.chuprikov@usi.ch
+  partner: USI
+  dblp: https://dblp.org/pid/167/4287
+
+- name: Shamiek Mangipudi
+  image: "img/researchers/nophoto.png"
+  mail: shamiek.mangipudi@usi.ch
+  partner: USI
+  dblp: ---
+
+- name: Animesh Trivedi
+  image: "img/researchers/animesh-trivedi.png"
+  mail: a.trivedi@vu.nl
+  partner: VUA
+  dblp: https://dblp.org/pid/86/11040
+
+- name: Sacheendra Talluri
+  image: "img/researchers/nophoto.png"
+  mail: s.talluri@vu.nl
+  partner: VUA
+  dblp: https://dblp.org/pid/210/3417
+
+- name: Matthijs Jansen
+  image: "img/researchers/nophoto.png"
+  mail: m.s.jansen@vu.nl
+  partner: VUA
+  dblp: https://dblp.org/pid/283/1489
+
+- name: Alexandru Iosup
+  image: "img/researchers/alexandru-iosup.png"
+  mail: a.iosup@vu.nl
+  partner: VUA
+  dblp: https://dblp.org/pid/85/2489
+
+- name: Jesse Donkervliet
+  image: "img/researchers/nophoto.png"
+  mail: j.j.r.donkervliet@vu.nl
+  partner: VUA
+  dblp: https://dblp.org/pid/150/8487
+
+- name: Martin Staesser
+  image: "img/researchers/martin-straesser.jpg"
+  mail: martin.straesser@uni-wuerzburg.de
+  partner: WZG
+  dblp: ---
+
+- name: Maximilian Meissner
+  image: "img/researchers/maximilian-meissner.jpg"
+  mail: maximilian.meissner@uni-wuerzburg.de
+  partner: WZG
+  dblp: https://dblp.org/pid/324/6471
+
+- name: Josef Spillner
+  image: "img/researchers/josef-spillner.jpg"
+  mail: josef.spillner@zhaw.ch
+  partner: ZHAW
+  dblp: https://dblp.org/pid/99/2643
+---
