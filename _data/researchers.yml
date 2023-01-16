@@ -90,7 +90,7 @@
   dblp: ---
 
 - name: Jürgen Cito
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/jurgen-cito.png"
   mail: juergen.cito@tuwien.ac.at
   partner: TUW
   dblp: https://dblp.org/pid/150/6416
@@ -108,7 +108,7 @@
   dblp: https://dblp.org/pid/323/2981
 
 - name: Aurora González Vidal
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/aurora-gonzalez.jpg"
   mail: aurora.gonzalez2@um.es
   partner: UMU
   dblp: https://dblp.org/pid/179/8418
@@ -186,7 +186,7 @@
   dblp: ---
 
 - name: Animesh Trivedi
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/animesh-trivedi.png"
   mail: a.trivedi@vu.nl
   partner: VUA
   dblp: https://dblp.org/pid/86/11040
@@ -204,7 +204,7 @@
   dblp: https://dblp.org/pid/283/1489
 
 - name: Alexandru Iosup
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/alexandru-iosup.png"
   mail: a.iosup@vu.nl
   partner: VUA
   dblp: https://dblp.org/pid/85/2489
@@ -216,19 +216,19 @@
   dblp: https://dblp.org/pid/150/8487
 
 - name: Martin Staesser
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/martin-straesser.jpg"
   mail: martin.straesser@uni-wuerzburg.de
   partner: WZG
   dblp: ---
 
 - name: Maximilian Meissner
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/maximilian-meissner.jpg"
   mail: maximilian.meissner@uni-wuerzburg.de
   partner: WZG
   dblp: https://dblp.org/pid/324/6471
 
 - name: Josef Spillner
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/josef-spillner.jpg"
   mail: josef.spillner@zhaw.ch
   partner: ZHAW
   dblp: https://dblp.org/pid/99/2643
