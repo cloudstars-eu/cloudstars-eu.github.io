@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: thisisengineering-raeng-uyfohHiTxho-unsplash.jpg
-alt: image-alt
-project-date: April 2014
-description: All the explanation.
+date: 2023-01-12
+img: cloudstars-kickoff.jpg
+alt: CloudStars Kick-off
+project-date: January 2023
+description: CloudStars Kick-off Meeting in Tarragona, with the presence of all partners.
 ---
