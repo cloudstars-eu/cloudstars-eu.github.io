@@ -26,7 +26,7 @@
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="2" class="infobox-image"><img
-                                    style="padding-bottom: 1em; width: 200px;" alt="Portrait" src="{{ researcher.image }}">
+                                    style="padding-bottom: 1em; overflow: hidden; height: 200px;" alt="Portrait" src="{{ researcher.image }}">
                             </td>
                         </tr>
 
@@ -54,8 +54,11 @@
                         <tr>
                             <th scope="row" class="infobox-label" style="padding-right: 1em; padding-bottom: 1em;">Dblp</th>
                             <td class="infobox-data" style="padding-bottom: 1em;">
-                                <div style="display:inline" class="nickname"><a href = "{{ researcher.dblp }}">{{ researcher.dblp }}</a>
-                                </div>
+                                {% if researcher.dblp contains "https://" or researcher.dblp contains "http://" %}
+                                    <div style="display:inline" class="nickname"><a href = "{{ researcher.dblp }}">{{ researcher.dblp }}</a></div>
+                                {% else %}
+                                    <div style="display:inline" class="nickname">{{ researcher.dblp }}</div>
+                                {% endif %}
                             </td>
                         </tr>
 
