@@ -1,6 +1,6 @@
 ---
 - name: Maciej Malawski
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/Maciek.png"
   mail: malawski@agh.edu.pl
   partner: AGH
   dblp: https://dblp.org/pid/70/4032
@@ -120,7 +120,7 @@
   dblp: https://dblp.org/pid/f/PabloFernandez
 
 - name: Jose Manuel Bernabe Murcia
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/José Manuel Bernabé Murcia.jepc"
   mail: josemanuel.bernabe@um.es
   partner: UMU
   dblp: https://dblp.org/pid/277/8510
