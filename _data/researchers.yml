@@ -18,13 +18,13 @@
   dblp: https://dblp.org/pid/152/7714
 
 - name: Sławomir Zieliński
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/sz-photo.jpg"
   mail: slawek@agh.edu.pl
   partner: AGH
   dblp: https://dblp.org/pid/27/864
 
 - name: Bartosz Baliś
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/bartolsz.png"
   mail: balis@agh.edu.pl
   partner: AGH
   dblp: https://dblp.org/pid/26/804
@@ -162,7 +162,7 @@
   dblp: https://dblp.org/pid/310/1827
 
 - name: German Telmo Eizaguirre
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/foto-german.jpeg"
   mail: germantelmo.eizaguirre@urv.cat
   partner: URV
   dblp: ---
@@ -232,4 +232,8 @@
   mail: josef.spillner@zhaw.ch
   partner: ZHAW
   dblp: https://dblp.org/pid/99/2643
----
+
+- name: Marc Sanchez Artigas
+  image: "img/researchers/Marc Sanchez.jpg"
+  mail: marc.sanchez@urv.cat
+  partner: URV
