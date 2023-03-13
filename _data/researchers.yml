@@ -96,14 +96,14 @@
   dblp: https://dblp.org/pid/150/6416
 
 - name: Nathanael Nussbaumer
-  image: "img/researchers/nophoto.png"
+  image: "img/researchers/nathanael_picture.png"
   mail: nathanael.nussbaumer@tuwien.ac.at
   partner: TUW
   dblp: ---
 
 - name: Markus Böck
-  image: "img/researchers/nophoto.png"
-  mail: markus.boeck@tuwien.ac.at
+  image: "img/researchers/Markus.jpeg"
+  mail: markus.h.boeck@tuwien.ac.at
   partner: TUW
   dblp: https://dblp.org/pid/323/2981
 
@@ -237,3 +237,4 @@
   image: "img/researchers/Marc Sanchez.jpg"
   mail: marc.sanchez@urv.cat
   partner: URV
+  dblp: https://dblp.org/pid/69/1023.html
