@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2023-10-10
-title: Cloud-Edge Continuum Workshop (CEC’23)
+date: 2023-01-12
+title: CEC
 img: cloudstars-kickoff.jpg
-alt: CEC Workshop
-project-date: October 10th 2023
-description: Cloud-Edge Continuum workshop (CEC’23) will be held in Reykjavik on October 10, 2023 and is organized and co-located with IEEE ICNP conference that will take place on October 10-13. CEC’23 is supported by multiple consortia of leading academic and industry organizations, funded by EU commission. <br/>
-<a href="https://cec23.github.io/" target="_blank">MORE INFORMATION</a>
+alt: CloudStars Kick-off
+project-date: January 2023
+description: CLOUDSTARS Kick-off Meeting in Tarragona, with the presence of all partners.
 ---
