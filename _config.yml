@@ -1,9 +1,9 @@
 # Site settings
-title: CloudStars
-email: your-email@domain.com
-url: #https://sergial273.github.io/CloudStars/
-description: "ClodStars project main page."
-keywords: "your keywords, separated by commas"
+title: CLOUDSTARS
+email: cloudstars.project@gmail.com
+url: #https://github.com/cloudstars-eu/cloudstars-eu.github.io
+description: "CLOUDSTARS - Cloud Open Source Research Mobility Network. This project has received funding from the European Union's Horizon research and innovation programme under grant agreement No 101086248."
+keywords: "mobility network, cloud, open source research, european project, cloud infrastructure, Serverless, Hybrid Cloud, AI, Data Analytics"
 skills: "Cloud Open Source Research Mobility Network"
 meta_author: LastName FirstName
 
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: CloudStars consortium
+  copyright: CLOUDSTARS consortium
   location: Contact
   social: Around the Web
   credits: Text
