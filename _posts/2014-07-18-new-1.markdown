@@ -2,9 +2,9 @@
 layout: default
 modal-id: 1
 date: 2023-01-12
-title: CloudStars Kick-off Meeting
+title: CLOUDSTARS Kick-off Meeting
 img: cloudstars-kickoff.jpg
 alt: CloudStars Kick-off
 project-date: January 2023
-description: CloudStars Kick-off Meeting in Tarragona, with the presence of all partners.
+description: CLOUDSTARS Kick-off Meeting in Tarragona, with the presence of all partners.
 ---
