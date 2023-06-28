@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-10-10
-title: Cloud-Edge Continuum Workshop (CEC’23)
+title: Cloud-Edge Continuum Workshop (CEC'23)
 img: cloudstars-kickoff.jpg
 alt: CloudStars Kick-off
 project-date: January 2023
