@@ -40,14 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/cloudstars2023
+    url: http://twitter.com/Cloudstars_2023
   - title: youtube
-    url: https://www.youtube.com/channel/UCeQBQZXlTgmLXncvNiYeZYA
+    url: https://www.youtube.com/@cloudstars_eu
   - title: github
-    url: http://github.com/sergial273
+    url: https://github.com/cloudstars-eu
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Project Coordinator
   - line: Dr. Pedro García López
   - line: 'E-mail: pedro.garcia@urv.cat'
 
