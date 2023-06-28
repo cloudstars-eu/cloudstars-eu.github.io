@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2023-01-12
 title: CEC
-img: cloudstars-kickoff.jpg
+img: CEC_Workshop_2023.png
 alt: CloudStars Kick-off
 project-date: January 2023
 description: CLOUDSTARS Kick-off Meeting in Tarragona, with the presence of all partners.
