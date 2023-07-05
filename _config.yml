@@ -45,8 +45,8 @@ social:
     url: https://www.youtube.com/@cloudstars_eu
   - title: github
     url: https://github.com/cloudstars-eu
-  - title: zenodo
-    url: https://zenodo.org/communities/cloudstars-eu
+  - line: 'ZENODO'
+    url: 'https://zenodo.org/communities/cloudstars-eu'
 
 # Postal address (add as many lines as necessary)
 address:
