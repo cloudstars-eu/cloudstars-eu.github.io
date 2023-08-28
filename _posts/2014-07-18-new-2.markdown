@@ -3,8 +3,8 @@ layout: default
 modal-id: 2
 date: 2023-01-12
 title: Cloud-Edge Continuum Workshop
-img: CEC_Workshop_2023.png
+img: CEC_Workshop_23.png
 alt: CEC Workshop 2023
 project-date: October 2023
-description: MORE INFORMATION - https://cec23.github.io/
+description: <a href="https://cec23.github.io/" target="_blank">MORE INFORMATION</a>
 ---
