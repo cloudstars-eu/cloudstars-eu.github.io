@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+date: 2023-09-27
+title: CLOUDSTARS activities during the first months of the project
+img: NRB_CloudStars_MWC.jpg
+alt: CLOUDSTARS activities
+project-date: September 2023
+description: <a href="img\posts\Newsletter_2_September2023.pdf">READ NEWS</a>
+---
