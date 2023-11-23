@@ -6,5 +6,5 @@ title: First experiences from the University of Murcia in Yorktown
 img: news3.png
 alt: Experiences in Yorktown
 project-date: October 2023
-description: <a href="img\posts\Newsletter_3_October2023.pdf">READ NEWS</a>
+description: <a href="img\posts\Newsletter_3_October2023.pdf">READ NEWSLETTER</a>
 ---
