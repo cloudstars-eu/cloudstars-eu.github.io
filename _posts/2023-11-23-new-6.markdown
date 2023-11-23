@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2023-11-23
+title: TUM Secondments at the IBM Thomas J. Watson Research Center
+img: news4.png
+alt: TUM Secondments
+project-date: Nobember 2023
+description: <a href="img\posts\Newsletter_4_October2023.pdf">READ NEWS</a>
+---
