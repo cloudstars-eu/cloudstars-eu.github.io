@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 7
+date: 2023-12-19
+title: Working on the Next Generation Serverless Functions and Containers
+img: news5.png
+alt: Next Generation Serverless
+project-date: December 2023
+description: <a href="img\posts\Newsletter_5_Dec2023.pdf">READ NEWSLETTER</a>
+---
