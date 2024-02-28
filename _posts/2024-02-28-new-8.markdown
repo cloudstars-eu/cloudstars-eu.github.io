@@ -3,7 +3,7 @@ layout: default
 modal-id: 8
 date: 2024-02-28
 title: AGH secondments at IBM TJ Watson Research
-img: news5.png
+img: news6.png
 alt: AGH secondments at IBM TJ Watson Research
 project-date: February 2024
 description: <a href="img\posts\Newsletter_6_Feb2024.pdf">READ NEWSLETTER</a>
