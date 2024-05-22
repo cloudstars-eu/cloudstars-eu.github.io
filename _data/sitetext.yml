@@ -1,0 +1,32 @@
+---
+publications:
+  - title: "Towards a Cloud-based Platform for the Management of Smart City Data: A Case Study in the Context of the CLOUDSTARS Project"
+    url: '#'
+
+deliverables:
+  - title: "D1.1 PUBLIC PROJECT WEBSITE"
+    url: 'deliverables\Cloudstars_D1.1_Public.pdf'
+  - title: "D1.2 DATA MANAGEMENT PLAN"
+    url: 'deliverables\CLOUDSTARS_D1.2_Public.pdf'
+
+review:
+  events:
+    - time: "9:00"
+      subject: To be included
+      duration: 30 mins
+      lead: Universitat Rovira i Virgili
+  slides:
+    - title: To be included
+      link: "#"
+  videos:
+    - title: To be included
+      video: "#"
+      slides: "#"
+  summaries:
+    - shortname: To be included
+      partner: URV
+      link: "#"
+  artifacts:
+    - title: To be included
+      description: Definitive cloudstars software stack
+      link: "#"
