@@ -1,7 +1,49 @@
 ---
 publications:
-  - title: "Towards a Cloud-based Platform for the Management of Smart City Data: A Case Study in the Context of the CLOUDSTARS Project"
-    url: '#'
+  - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
+    url: 'https://arxiv.org/pdf/2312.07090'
+  - title: "Serverless End Game: Disaggregation enabling Transparency"
+    url: 'https://dl.acm.org/doi/10.1145/3642977.3652094'
+  - title: "Hypergraphx: a library for higher-order network analysis"
+    url: 'https://academic.oup.com/comnet/article/11/3/cnad019/7180959'
+  - title: "Hyperlink communities in higher-order networks"
+    url: 'https://arxiv.org/abs/2303.01385'
+  - title: "Massivizing Computer Systems: VU on the Science, Design, and Engineering of Distributed Systems and Ecosystems"
+    url: 'https://www.scitepress.org/Papers/2023/120686/120686.pdf'
+  - title: "Graph Greenifier: Towards Sustainable and Energy-Aware Massive Graph Processing in the Computing Continuum"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3578245.3585329'
+  - title: "How Do ML Jobs Fail in Datacenters? Analysis of a Long-Term Dataset from an HPC Cluster"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3578245.3584726'
+  - title: "Edge Computing in Smart Agriculture Scenario Based on TinyML for Irrigation Control"
+    url: 'https://zenodo.org/records/11579890'
+  - title: "CloudJIT: A Just-in-Time FaaS Optimizer (Work in Progress)"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3617651.3622990'
+  - title: "MultiBEATS: Blocks of eigenvalues algorithm for multivariate time series dimensionality reduction"
+    url: 'https://doi.org/10.1016/j.inffus.2023.102159'
+  - title: "On Serving Image Classification Models"
+    url: 'https://zenodo.org/records/11580377'
+  - title: "Exact and sampling methods for mining higher-order motifs in large hypergraphs"
+    url: 'https://link.springer.com/article/10.1007/s00607-023-01230-5'
+  - title: "ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing"
+    url: 'https://www.sciencedirect.com/science/article/pii/S0167739X23004211'
+  - title: "Serverless Confidential Containers: Challenges and Opportunities"
+    url: 'https://zenodo.org/records/11544855'
+  - title: "A Convolutional Neural Network approach for image-based anomaly detection in smart agriculture"
+    url: 'https://www.sciencedirect.com/science/article/pii/S0957417424000757'
+  - title: "The Cost of Simplicity: Understanding Datacenter Scheduler Programming Abstractions"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3629526.3645038'
+  - title: "zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3642963.3652205'
+  - title: "FootPrinter: Quantifying Data Center Carbon Footprint"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3629527.3651419'
+  - title: "A Systematic Configuration Space Exploration of the Linux Kyber I/O Scheduler"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3629527.3651416'
+  - title: "ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3642963.3652203'
+  - title: "Towards a Workload Trace Archive for Metaverse Systems"
+    url: 'https://dl.acm.org/doi/abs/10.1145/3629527.3651421'
+  - title: "Towards efficient and secure data sharing between co-located serverless containers in Kubernetes"
+    url: 'https://zenodo.org/records/8188833'
 
 deliverables:
   - title: "D1.1 PUBLIC PROJECT WEBSITE"
