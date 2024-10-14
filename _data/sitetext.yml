@@ -44,6 +44,10 @@ publications:
     url: 'https://dl.acm.org/doi/abs/10.1145/3629527.3651421'
   - title: "Towards efficient and secure data sharing between co-located serverless containers in Kubernetes"
     url: 'https://zenodo.org/records/8188833'
+  - title: "Exact and sampling methods for mining higher-order motifs in large hypergraphs"
+    url: 'https://arxiv.org/abs/2209.10241'
+  - title: "Hyperlink communities in higher-order networks (Pending link)"
+    url: ''
 
 deliverables:
   - title: "D1.1 PUBLIC PROJECT WEBSITE"
