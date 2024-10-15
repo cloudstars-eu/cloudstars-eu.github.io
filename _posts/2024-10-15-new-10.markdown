@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+date: 2024-10-15
+title: Accelerating Small Language Models in the Cloud
+img: news8.png
+alt: Accelerating Small Language Models in the Cloud
+project-date: October 2024
+description: <a href="img\posts\Newsletter_8_October2024_BSC.pdf">READ NEWSLETTER</a>
+---
