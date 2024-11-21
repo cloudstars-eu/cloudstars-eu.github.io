@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+date: 2024-11-21
+title: CLOUDSTARS presenting to Confidential Computing Consortium
+img: news9.png
+alt: CLOUDSTARS presenting to Confidential Computing Consortium
+project-date: November 2024
+description: <a href="img\posts\Newsletter_9_November_2024_USI.pdf">READ NEWSLETTER</a>
+---
