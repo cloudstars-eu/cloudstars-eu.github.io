@@ -11,18 +11,26 @@ layout: page
                     <div style="height: 80px"></div>
                     <table class="table table-striped" style="text-align: left">
                         <thead>
-                        <tr>
-                            <th>Name</th>
-                            <th>Link (open access)</th>
-                        </tr>
+                            <tr>
+                                <th>Title</th>
+                                <th>Journal or equivalent</th>
+                                <th>Authors</th>
+                                <th>Year</th>
+                                <th>DOI</th>
+                                <th>Link</th>
+                            </tr>
                         </thead>
                         <tbody>
-                        {% for publication in site.data.sitetext.publications %}
-                        <tr>
-                            <td>{{ publication.title }}</td>
-                            <td><a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a></td>
-                        </tr>
-                        {% endfor %}
+                            {% for publication in site.data.sitetext.publications %}
+                            <tr>
+                                <td>{{ publication.title }}</td>
+                                <td>{{ publication.journal-conf }}</td>
+                                <td>{{ publication.authors }}</td>
+                                <td>{{ publication.year }}</td>
+                                <td>{{ publication.doi }}</td>
+                                <td><a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a></td>
+                            </tr>
+                            {% endfor %}
                         </tbody>
                     </table>
                 </div>
