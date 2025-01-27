@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 11
+date: 2025-01-27
+title: Enhancing decentralization, dependability and performance in cloud applications
+img: news10.png
+alt: Enhancing decentralization, dependability and performance in cloud applications
+project-date: January 2025
+description: <a href="img\posts\Newsletter_10_January_2025.pdf">READ NEWSLETTER</a>
+---
