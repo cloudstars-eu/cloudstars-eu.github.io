@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 12
+date: 2025-02-25
+title: GRANNY - Granular Management of Compute Intensive Applications in the Cloud
+img: news11.png
+alt: GRANNY
+project-date: February 2025
+description: <a href="img\posts\Newsletter_11_February_2025.pdf">READ NEWSLETTER</a>
+---
