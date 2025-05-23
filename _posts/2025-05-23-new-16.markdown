@@ -3,7 +3,7 @@ layout: default
 modal-id: 15
 date: 2025-05-23
 title: UMU strengthens its collaborations with IBM Ireland
-img: news14.jpeg
+img: news14.png
 alt: UMU strengthens its collaborations with IBM Ireland
 project-date: May 2025
 description: <a href="img\posts\Newsletter_14_May_2025.pdf">READ NEWSLETTER</a>
