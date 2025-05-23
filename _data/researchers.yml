@@ -238,3 +238,9 @@
   mail: marc.sanchez@urv.cat
   partner: URV
   dblp: https://dblp.org/pid/69/1023.html
+
+- name: Patrick Eugster
+  image: "img/researchers/Patrick_Eugster.png"
+  mail: eugstp@usi.ch
+  partner: USI
+  dblp: https://dblp.org/pid/14/4443.html
