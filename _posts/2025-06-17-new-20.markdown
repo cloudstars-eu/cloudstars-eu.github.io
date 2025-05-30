@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 20
+date: 2025-06-17
+title: CLOUDSTARS researchers present at WoSCx4 2025
+img: woscx4.png
+alt: WoSCx4
+project-date: June 2025
+description: <a href="https://www.serverlesscomputing.org/woscx4/">MORE INFORMATION</a>
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 17
+date: 2025-05-29
+title: CLOUDSTARS in ICMLCN25
+img: ICMLCN_25.jpg
+alt: ICMLCN25
+project-date: May 2025
+description: Nearby Computing have participated in the IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN25) in Barcelona. They showcased our innovative CLOUDSTARS project at their booth. More information: https://icmlcn2025.ieee-icmlcn.org
+---

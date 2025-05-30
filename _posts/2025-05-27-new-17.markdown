@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 16
+date: 2025-05-27
+title: Training on Open Access
+img: OpenAccess.jpg
+alt: Training on Open Access
+project-date: May 2025
+description: Training on Open Access for URV researchers on May 27, 2025
+---
