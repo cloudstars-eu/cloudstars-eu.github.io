@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 20
+date: 2025-07-31
+title: Cloud, AI, and Security - Challenges for Sustainable Computing
+img: news16.png
+alt: Cloud, AI, and Security - Challenges for Sustainable Computing
+project-date: July 2025
+description: <a href="img\posts\CLOUDSTARS_Newsletter_July2025.pdf">READ NEWSLETTER</a>
+---
