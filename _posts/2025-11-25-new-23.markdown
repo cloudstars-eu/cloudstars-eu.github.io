@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 23
+date: 2025-11-25
+title: Insights on outlier identification through Data Provenance for vulnerabilities towards membership inference attacks
+img: news20.png
+alt: Insights on outlier identification through Data Provenance for vulnerabilities towards membership inference attacks
+project-date: November 2025
+description: <a href="img\posts\CLOUDSTARS_Newsletter_Nov2025.pdf">READ NEWSLETTER</a>
+---
