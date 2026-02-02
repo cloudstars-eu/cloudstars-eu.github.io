@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 24
+date: 2026-02-02
+title: Advances in decentralization, dependability and expressiveness for cloud applications
+img: news24.png
+alt: Advances in decentralization, dependability and expressiveness for cloud applications
+project-date: January 2026
+description: <a href="img\posts\CLOUDSTARS_Newsletter_Jan2026.pdf">READ NEWSLETTER</a>
+---
