@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 25
+date: 2026-03-27
+title: Upskilling in Sustainable Cloud-Native & AI through Learning Spaces
+img: news25.png
+alt: Upskilling in Sustainable Cloud-Native & AI through Learning Spaces
+project-date: March 2026
+description: <a href="img\posts\CLOUDSTARS_Newsletter_March2026.pdf">READ NEWSLETTER</a>
+---
