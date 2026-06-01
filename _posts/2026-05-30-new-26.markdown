@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 26
+date: 2026-05-31
+title: Three Years of IBM Secondments - 45 Researchers, 89 Research Contributions, and Growing
+img: news26.png
+alt: Three Years of IBM Secondments
+project-date: Mary 2026
+description: <a href="img\posts\Newsletter_CLOUDSTARS_May_2026.pdf">READ NEWSLETTER</a>
+---
