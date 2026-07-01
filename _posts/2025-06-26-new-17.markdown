@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 19
+modal-id: 17
 date: 2025-06-26
 title: Dublin Collaborations and IBM Yorktown Heights Summer Projects
 img: news15.png

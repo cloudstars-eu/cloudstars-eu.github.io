@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 12
+modal-id: 13
 date: 2025-02-25
 title: GRANNY - Granular Management of Compute Intensive Applications in the Cloud
 img: news11.png

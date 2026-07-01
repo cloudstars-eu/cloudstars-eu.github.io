@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 18
+modal-id: 19
 date: 2025-06-17
 title: CLOUDSTARS researchers present at WoSCx4 2025
 img: woscx4.png
