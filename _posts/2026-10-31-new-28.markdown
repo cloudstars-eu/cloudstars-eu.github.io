@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 28
+date: 2026-10-31
+title: Advances in decentralization, sustainability and AI workloads in cloud environments
+img: news28.png
+alt: Advances in decentralization, sustainability and AI workloads in cloud environments
+project-date: October 2026
+description: <a href="img\posts\Newsletter_INESCID_October_2026_INESC_ID.pdf">READ NEWSLETTER</a>
+---
